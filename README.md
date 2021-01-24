@@ -1,2 +1,2 @@
 # GoogleSheetsAppsScript
-Apps Scripts for Google Sheets
+Untilitary Apps Scripts for Google Docs, Sheets, and more.
